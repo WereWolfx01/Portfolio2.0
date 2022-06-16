@@ -19,11 +19,10 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              Hi this is Aeman, I fell in love with programming when I was first intoduced to 
-              video games and being able to make stuff happen (INFINITE HEALTH + AMMO) ... 🤫 
+              I'm a Canadian full-stack developer focused on writing code that makes an impact on users.
               <br />
               <br />
-              Years later, I now hold a degree in
+              I hold a bachelor degree in
               <i>
                 <b className="purple"> Computing </b> from <b className="purple">University of Guelph.</b> 
               </i>
@@ -34,18 +33,18 @@ function Home2() {
               </i>
               <br />
               <br />
-              My field of Interest is working on current&nbsp;
+              My field of Interests are working on current&nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also I like to {" "}
-                <b className="purple">
-                keep learning, continue challenging myself, and build intersting projects.
-                </b>
+                <b className="purple">Web Technologies </b>and <b className="purple">Create Software Products. </b>
+              <br />
+              <br />
+                I'm currently learning <b className="purple">Full Stack Development,</b> and I like to {" "}
+                  continue challenging myself, learn new languages and problem solving techniques.
               </i>
               <br />
               <br />
-              I am passionate in becoming a full-time software developer. I have experience in
-              <b className="purple"> Front-end and Back-end development.</b>
+              My goal is to become a full-time software developer. I have experience working for a {" "}
+              <b className="purple">telecommunications provider</b> providing technical advise to customers and solving real life problems.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
