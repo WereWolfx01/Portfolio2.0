@@ -7,7 +7,7 @@ import emotion from "../../Assets/Projects/emotion.jpeg";
 import editor from "../../Assets/Projects/codeEditor.png";
 import portfolio from "../../Assets/Projects/portfolio.png";
 import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+import chatbox from "../../Assets/Projects/chatbox.gif";
 
 function Projects() {
   return (
@@ -33,15 +33,15 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={chatbox}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              link="https://github.com/soumyajit4419/Bits-0f-C0de"
+              title="CHATBOX"
+              description="Realtime chat app with react, node.js and socket.io with mongodb and express, and styled-componenets."
+              link="https://github.com/WereWolfx01/chatbox"
             />
           </Col>
 
-          <Col md={4} className="project-card">
+          {/* <Col md={4} className="project-card">
             <ProjectCard
               imgPath={editor}
               isBlog={false}
@@ -49,7 +49,7 @@ function Projects() {
               description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
               link="https://github.com/soumyajit4419/Editor.io"
             />
-          </Col>
+          </Col> */}
         </Row>
       </Container>
     </Container>
