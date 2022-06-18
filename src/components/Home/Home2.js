@@ -19,12 +19,12 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I'm a Canadian full-stack developer focused on writing code that makes an impact on users.
+              I'm a Iraqi-Canadian full-stack developer focused on writing code that makes an impact on users.
               <br />
               <br />
-              I hold a bachelor degree in
+              I graduated with a degree in
               <i>
-                <b className="purple"> Computing </b> from <b className="purple">University of Guelph.</b> 
+                <b className="purple"> Computer and Information Science </b> from <b className="purple">University of Guelph.</b> 
               </i>
               <br />
               <br />I am proficient in classics like
@@ -44,7 +44,7 @@ function Home2() {
               <br />
               <br />
               My goal is to become a full-time software developer. I have experience working for a {" "}
-              <b className="purple">telecommunications provider</b> providing technical advise to customers and solving real life problems.
+              <b className="purple">telecommunications provider</b> providing technical adviseto customers and solving real life problems.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
