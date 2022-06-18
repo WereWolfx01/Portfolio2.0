@@ -1,6 +1,5 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { CgCPlusPlus } from "react-icons/cg";
 import {
   DiJavascript1,
   DiReact,
@@ -10,16 +9,13 @@ import {
   DiGit,
 } from "react-icons/di";
 import {
-  SiPytorch,
   SiFirebase,
-  SiNextdotjs,
   SiExpress,
   SiWireshark,
 } from "react-icons/si";
 import {
   FaJava,
 } from "react-icons/fa";
-import {Link} from 'react-router-dom'
 
 function Techstack() {
   return (
