@@ -8,13 +8,13 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Aeman Alobaidi</span> {" "}
-            currently based in <span className="purple">Hamilton, Ontario.</span>
-            <br />I am a new graduate from University of Guelph with a Bachelor of Computing (BCG).
+            Hi, my name is <span className="purple">Aeman Alobaidi</span> {" "}
+            and currently I'm based in <span className="purple">Hamilton, Ontario.</span>
+            <br />I am a new graduate from <span className="purple">University of Guelph</span> with a Bachelor of Computing (BCG).
             <br />
-            I have studied subjects related to Computer Science, Software Engineering and Math.
+            I have studied subjects related to <span className="purple">Computer Science</span>, <span className="purple">Software Engineering</span> and <span className="purple">Math</span>.
             <br />
-            Apart from coding, some other activities that I love to do!
+            Apart from <span className="purple">coding</span>, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">

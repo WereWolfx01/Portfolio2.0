@@ -18,7 +18,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I'm a Iraqi-Canadian full-stack developer focused on writing code that makes an impact on users.
+              I'm an Iraqi-Canadian full-stack developer focused on writing code that makes an impact on users.
               <br />
               <br />
               I graduated with a degree in
@@ -32,18 +32,18 @@ function Home2() {
               </i>
               <br />
               <br />
-              My field of Interests are working on current&nbsp;
+              My fields of Interest are working on current&nbsp;
               <i>
                 <b className="purple">Web Technologies </b>and <b className="purple">Create Software Products. </b>
               <br />
               <br />
-                I'm currently learning <b className="purple">Full Stack Development,</b> and I like to {" "}
+                I'm currently learning <b className="purple">Full Stack Development</b>, and I like to {" "}
                   continue challenging myself, learn new languages and problem solving techniques.
               </i>
               <br />
               <br />
               My goal is to become a full-time software developer. I have experience working for a {" "}
-              <b className="purple">telecommunications provider</b> providing technical adviseto customers and solving real life problems.
+              <b className="purple">telecommunications provider</b> providing technical advise to customers and solving real life problems.
             </p>
           </Col>
           <Col md={4} className="myAvtar">

@@ -14,7 +14,7 @@ function Projects() {
           My Recent <strong className="purple">Works </strong>
         </h1>
         <p style={{ color: "white" }}>
-          Here are a few projects I've worked on recently.
+          Here are few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
@@ -32,7 +32,7 @@ function Projects() {
               imgPath={chatbox}
               isBlog={false}
               title="CHATBOX"
-              description="Realtime chat app with react, node.js and socket.io with mongodb and express, and styled-componenets."
+              description="Realtime chat app built with React.js, Node.js Socket.io (frontend) and using Mongodb and Express.js (backend). The chat app is also responsive and it is styled with Styled Components. Implemented user login and registration for added security measures."
               link="https://github.com/WereWolfx01/chatbox"
             />
           </Col>
